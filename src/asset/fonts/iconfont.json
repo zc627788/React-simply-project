@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "133263",
+      "name": "time",
+      "font_class": "time",
+      "unicode": "e90a",
+      "unicode_decimal": 59658
+    },
+    {
+      "icon_id": "650743",
+      "name": "感叹号",
+      "font_class": "gantanhao",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "845793",
+      "name": "赞",
+      "font_class": "zan",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "1381372",
+      "name": "eye",
+      "font_class": "eye",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    }
+  ]
+}
